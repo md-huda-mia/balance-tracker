@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px 7%;
+  background: #f9f9f9;
+}
+
+.footer_logo h3 {
+  font-size: 22px;
+  color: #444;
+}
+
+.footer_text p {
+  font-size: 18px;
+  color: #555;
+}

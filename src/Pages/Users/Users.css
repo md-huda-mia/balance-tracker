@@ -1,0 +1,23 @@
+.single_user {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 30px;
+}
+
+.userInfo {
+  background: #f6f6f6;
+  padding: 20px;
+  border-radius: 8px;
+  line-height: 28px;
+}
+.userInfo h3 {
+  color: #333;
+  font-size: 20px;
+}
+.userInfo h4 {
+  color: #555;
+  font-size: 16px;
+}
+.userInfo p {
+  color: #555;
+}

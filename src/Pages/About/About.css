@@ -1,0 +1,29 @@
+.about_secion > h2 {
+  font-size: 40px;
+  margin: 25px 0 40px;
+}
+.aboutInfo {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  gap: 50px;
+}
+
+.about_img {
+  width: 100%;
+}
+.about_img img {
+  border-radius: 10px;
+}
+.about_text h2 {
+  font-size: 25px;
+  color: #333;
+  font-weight: 500;
+}
+
+.about_text p {
+  color: #555;
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 27px;
+}
