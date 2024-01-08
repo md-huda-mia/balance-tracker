@@ -1,5 +1,5 @@
 import React from "react";
-import "./Login.css";
+import "./login.css";
 import { NavLink, useNavigate } from "react-router-dom";
 import useAuth from "../../Hook/useAuth";
 import { toast } from "react-toastify";
